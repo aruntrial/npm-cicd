@@ -1,0 +1,25 @@
+{
+  "name": "npm-cicd",
+  "version": "1.0.0",
+  "description": "NPM CICD TRial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruntrial/npm-cicd.git"
+  },
+  "keywords": [
+    "Npm",
+    "cicd",
+    "sample",
+    "trial"
+  ],
+  "author": "Arunkumar Srisailapathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruntrial/npm-cicd/issues"
+  },
+  "homepage": "https://github.com/aruntrial/npm-cicd#readme"
+}
